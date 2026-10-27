@@ -1,0 +1,9 @@
+Flask>=3.0,<4
+Gunicorn>=22,<24
+python-chess>=1.999
+PyMuPDF>=1.24
+Pillow>=10
+numpy>=2.1
+opencv-python>=4.13
+ultralytics>=8.4.54
+huggingface_hub>=0.25
